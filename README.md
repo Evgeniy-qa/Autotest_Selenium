@@ -1,2 +1,2 @@
-# Autotest_yandexEda
+# Autotest_Selenium
 Java-Junit-Selenium
